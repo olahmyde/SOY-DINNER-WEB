@@ -1,0 +1,113 @@
+[   
+    {
+        "id": 1,
+        "seats": 5,
+        "data": {
+            "Pst. Sam Adeleke": "Pending",
+            "Pst. Ola Adeleke": "Pending",
+            "David Adeleke": "Pending",
+            "Esther Adeleke": "Pending",
+            "Dr Ayokunmi": "Pending"
+        }
+    },
+    {
+        "id": 2,
+        "seats": 6,
+        "data": {
+            "Victor Equere": "Pending",
+            "Linda Amah": "Pending",
+            "Annabel Okoro": "Pending",
+            "Esnath Chingono": "Pending",
+            "Dr. Joy Egede": "Pending",
+            "Mr. Awe": "Pending"
+        }
+    },
+    {
+        "id": 3,
+        "seats": 5,
+        "data": {
+            "Mfon Smith": "Pending",
+            "Tiwatope Kunle": "Pending",
+            "Divine Ephraim-Osunde": "Pending",
+            "Dave Nakpodia": "Pending",
+            "Itoro Obobikpe": "Pending"
+        }
+    },
+    {
+        "id": 4,
+        "seats": 5,
+        "data": {
+            "Dara Osinaike": "Pending",
+            "Mojeri Osinaike": "Pending",
+            "Kehinde Fashiku": "Pending",
+            "Michelle Osubor": "Pending",
+            "Percy Sey": "Pending"
+        }
+    },
+    {
+        "id": 5,
+        "seats": 6,
+        "data": {
+            "Chinny Williams": "Pending",
+            "Emmanuel Umeh": "Pending",
+            "Dean Essien": "Pending",
+            "Alexandra Onyebuchi": "Pending",
+            "Olamide Olufade": "Pending",
+            "Dami the drummer": "Pending"
+        }
+    },
+    {
+        "id": 6,
+        "seats": 6,
+        "data": {
+            "Jeremiah Pape": "Pending",
+            "Dante": "Pending",
+            "Signs Ogundare": "Pending",
+            "Ruth Julien": "Pending",
+            "Ruth Julien *": "Pending",
+            "Damilola Sanusi": "Pending"
+        }
+    },
+    {
+        "id": 7,
+        "seats": 5,
+        "data": {
+            "Deborah Sodiya": "Pending",
+            "Olaoluwa Olotu": "Pending",
+            "Juwon Afolayan": "Pending",
+            "Israel Solomon": "Pending",
+            "Adeola Oyewale": "Pending"
+        }
+    },
+    {
+        "id": 8,
+        "seats": 6,
+        "data": {
+            "Mary Olorunda": "Pending",
+            "David Odeyemi": "Pending",
+            "Grace Enigbokan": "Pending",
+            "CJ Uwoghrien": "Pending",
+            "Olamide Odeyemi": "Pending",
+            "Sweetning Uwoghrien": "Pending"
+        }
+    },
+    {
+        "id": 9,
+        "seats": 5,
+        "data": {
+            "Sylvanus Lilonfe": "Pending",
+            "Uba Lilonfe": "Pending",
+            "Charles Besidonne": "Pending",
+            "Sewa Besidonne": "Pending",
+            "Winifred Zakari": "Pending"
+        }
+    },
+    {
+        "id": 10,
+        "seats": 5,
+        "data": {
+            "DJ": "Pending",
+            "Photographer": "Pending"
+        }
+    }
+]
